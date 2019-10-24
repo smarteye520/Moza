@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180909273138",
+    "firebase_url": "https://mozaconnect.firebaseio.com",
+    "project_id": "mozaconnect",
+    "storage_bucket": "mozaconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180909273138:android:7665e88b41a2f576afcc2b",
+        "android_client_info": {
+          "package_name": "com.baywindproperties.mozaconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180909273138-jteljf3lgnjje37u09h5cjum7tr969eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0iS9fsSk13B_8cmcqlxXsIWt6GL6ss50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180909273138-jteljf3lgnjje37u09h5cjum7tr969eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>180909273138-ac3lus9vfrjcrg4ddmng018jgc7q0dgo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.180909273138-ac3lus9vfrjcrg4ddmng018jgc7q0dgo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCiY8du6TTEu6AR79aDMJvMm7wcJcHgNBM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>180909273138</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.baywindproperties.mozaconnect</string>
+	<key>PROJECT_ID</key>
+	<string>mozaconnect</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mozaconnect.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:180909273138:ios:70ae76c42230177aafcc2b</string>
+	<key>DATABASE_URL</key>
+	<string>https://mozaconnect.firebaseio.com</string>
+</dict>
+</plist>
